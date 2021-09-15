@@ -1,0 +1,2 @@
+rootProject.name = "tugasatu"
+include ':app'
